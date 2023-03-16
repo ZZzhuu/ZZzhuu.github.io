@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="https://github.com/ZZzhuu/ZZzhuu.github.io.git/atom.xml" rel="self"/>
+  <link href="https://zzzhuu.github.io/atom.xml" rel="self"/>
   
-  <link href="https://github.com/ZZzhuu/ZZzhuu.github.io.git/"/>
-  <updated>2023-03-16T13:34:59.367Z</updated>
-  <id>https://github.com/ZZzhuu/ZZzhuu.github.io.git/</id>
+  <link href="https://zzzhuu.github.io/"/>
+  <updated>2023-03-16T15:24:14.941Z</updated>
+  <id>https://zzzhuu.github.io/</id>
   
   <author>
     <name>ZZZzhuu</name>
@@ -17,9 +17,29 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="https://zzzhuu.github.io/2023/03/16/tyx/"/>
+    <id>https://zzzhuu.github.io/2023/03/16/tyx/</id>
+    <published>2023-03-16T15:23:21.328Z</published>
+    <updated>2023-03-16T15:24:14.941Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="我爱田原绪"><a href="#我爱田原绪" class="headerlink" title="我爱田原绪"></a>我爱田原绪</h1><h2 id="666"><a href="#666" class="headerlink" title="666"></a>666</h2><h3 id="仝镇熙是傻逼"><a href="#仝镇熙是傻逼" class="headerlink" title="仝镇熙是傻逼"></a>仝镇熙是傻逼</h3><p>123</p><tr>456]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;我爱田原绪&quot;&gt;&lt;a href=&quot;#我爱田原绪&quot; class=&quot;headerlink&quot; title=&quot;我爱田原绪&quot;&gt;&lt;/a&gt;我爱田原绪&lt;/h1&gt;&lt;h2 id=&quot;666&quot;&gt;&lt;a href=&quot;#666&quot; class=&quot;headerlink&quot; title=&quot;666&quot;&gt;&lt;/</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="https://github.com/ZZzhuu/ZZzhuu.github.io.git/2023/03/16/hello-world/"/>
-    <id>https://github.com/ZZzhuu/ZZzhuu.github.io.git/2023/03/16/hello-world/</id>
+    <link href="https://zzzhuu.github.io/2023/03/16/hello-world/"/>
+    <id>https://zzzhuu.github.io/2023/03/16/hello-world/</id>
     <published>2023-03-16T13:59:09.445Z</published>
     <updated>2023-03-16T13:34:59.367Z</updated>
     
